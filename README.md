@@ -9,7 +9,7 @@
 - **0.96" 128x64 OLED display, I2C**
 - **Fuel Gauge MAX17048 battery sensor** (this is not necessary, but is recommended). You can use any MAX1704x supported library listed in the library section, but you must modify the code before using it.
 - **6 buttons**
-- **3 LEDs and resistors for LEDs**(you have to calculate the value of the resistor...)
+- **3 LEDs and resistors for LEDs** (you have to calculate the value of the resistor...)
 - **And many cables...**
 ## Libraries
 - [Adafruit_SSD1306](https://github.com/adafruit/Adafruit_SSD1306) for display.
@@ -31,7 +31,7 @@
 \[1] - Battery percentage <br>
 \[2] - Battery voltage <br>
 \[3] - **4** is min value, **9** is max value, **MIN** is a variable in the following order (**MIN, TAR, MAX, RES**)  <br>
-\[4] - **100**  is resolution(RES), **50** is target(TAR) <br>
+\[4] - **100**  is resolution (RES), **50** is target (TAR) <br>
 \[5] - **0** is number of correct answers, **50** is maximum number of points(one correct = one point) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **4** is min value, **9** is max value, **100** is resolution <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- The last number after *_* is the user identification number <br>
