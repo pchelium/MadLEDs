@@ -4,9 +4,6 @@
 - With OLED display and battery status and with simple goal and that is: **FUN :)**
 ### [Documentation and instructions](https://pchelium.github.io/)
 
-> [!WARNING]
->The author accepts no liability for damages resulting from the use of this code or other parts contained in this project and on the website of project!
-
 ## Components for building
 - **some esp32 board**
 - **0.96" 128x64 OLED display, I2C**
