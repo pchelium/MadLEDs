@@ -1,11 +1,11 @@
 # MadLEDs
-- MadLEDs is an observation game for the **esp32 board** write in C++.
+- MadLEDs is an observation game for the **ESP32 board** write in C++.
 - This game is simple, one of the three LEDs lights up and you "catch" it by pressing the corresponding button. If you make it before the other LED is illuminated so you will be added a point if not, so you have no point. The time delay between LED switching can be set at the beginning of the game after the opening animation.
 - With OLED display and battery status and with simple goal and that is: **FUN :)**
 ### [Documentation and instructions](https://pchelium.github.io/)
 
 ## Components for building
-- **some esp32 board**
+- **some ESP32 board**
 - **0.96" 128x64 OLED display, I2C**
 - **Fuel Gauge MAX17048 battery sensor** (this is not necessary, but is recommended). You can use any MAX1704x supported library listed in the library section, but you must modify the code before using it.
 - **6 buttons**
