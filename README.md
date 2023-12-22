@@ -2,7 +2,7 @@
 - MadLEDs is an observation game for the **ESP32 board** write in C++.
 - This game is simple, one of the three LEDs lights up and you "catch" it by pressing the corresponding button. If you make it before the other LED is illuminated so you will be added a point if not, so you have no point. The time delay between LED switching can be set at the beginning of the game after the opening animation.
 - With OLED display and battery status and with simple goal and that is: **FUN :)**
-### [Website with documentation and instructions](https://pchelium.github.io/)
+### [Website with documentation and instructions](https://pchelium.github.io/projects/madleds.html)
 
 ## Components for building
 - **some ESP32 board**
