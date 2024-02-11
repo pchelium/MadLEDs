@@ -5,7 +5,7 @@
 ### [Website with documentation and instructions](https://pchelium.github.io/projects/madleds.html)
 
 ## Components for building
-- **some ESP32 board**
+- **Some ESP32 board**
 - **0.96" 128x64 OLED display, I2C**
 - **Fuel Gauge MAX17048 battery sensor** (this is not necessary, but is recommended). You can use any MAX1704x supported library listed in the library section, but you must modify the code before using it.
 - **6 buttons**
